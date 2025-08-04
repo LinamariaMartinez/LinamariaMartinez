@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=LinamariaMartinez&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Linamaría<sub style="font-size: 15px; font-style: italic">, an anthropologist and programming enthusiast.</sub><br> [![LinkedIn]([https://img.shields.io/badge/Jeferson%20Ferreira-%230077B5.svg?logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/v2/C4E03AQGUZWDYj9szqA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1538715847539?e=1756944000&v=beta&t=5DrUqT1DJ_i8XyiAZqDcgqkcEx9kpaQlu-g4l5vAqiA)](https://linkedin.com/in/linamariamartinezp)</b>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Linamaría<sub style="font-size: 15px; font-style: italic">, an anthropologist and programming enthusiast.</sub><br> [![LinkedIn](https://linkedin.com/in/linamariamartinezp)</b>
 
 ⚡Anthropologist-turned-developer building human-centered applications | JavaScript • React • Node.js • Python | 10+ years research experience.<br>
 
